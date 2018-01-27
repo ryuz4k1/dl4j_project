@@ -2,7 +2,8 @@
 
 
 # INTRODUCTION AND PURPOSE
-The purpose of this project is to apply sentiment analysis on a dataset that is given. Our datasets are tweets about  Archeage, Hobbit and
+The purpose of this project is to apply sentiment analysis on a dataset that is given. Our datasets are tweets about  Archeage, Hobbit 
+and
 Iphone6. As feature extractor CNN model and Word2Vec model (Enchanced with GoogleNews); as classifier Evaluation class; to seperate the 
 dataset into multiple files, (our own program) DataSeperator is used.
 
@@ -33,18 +34,25 @@ width and height would be the dimensions of the image, and the depth would be 3.
 
 •	word2vec is a group of Deep Learning models developed by Google with.The aim of capturing the context of words while at the same time 
 proposing a very efficient way of preprocessing raw text data. 
+
 •	This model takes as input a large corpus of documents like tweets or news articles and generates a vector space of typically several 
 hundred dimensions. Each word in the corpus is being assigned a unique vector in the vector space. 
+
 •	The powerful concept behind word2vec is that word vectors that are close to each other in the vector space represent words that are 
 not only of the same meaning but of the same context as well. Since word2vec relies on Deep Neural Nets to detect patterns, we can rely 
 on it to detect multiple features on different levels of abstractions. 
+
 •	On a more general level, word2vec embeds non trivial semantic and syntactic relationships between words. This results in preserving a 
 rich context. 
+
 •	The purpose and usefulness of Word2vec is to group the vectors of similar words together in vectorspace. That is, it detects 
 similarities mathematically. 
+
 •	Word2vec creates vectors that are distributed numerical representations of word features, features such as the context of individual 
 words. 
+
 •	It does so without human intervention. 
+
 •	Works similar with gene2vec, like2vec and follower2vec.
 
 
